@@ -1,5 +1,4 @@
 # baltusrol-app
-Trial App
 
 We are creating this app mostly for the sake of a fun introduction to app development.
 
